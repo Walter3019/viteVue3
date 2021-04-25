@@ -2,7 +2,7 @@
   <div>
     <img alt="Vue logo" src="./assets/logo.png" />
     <!-- <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" /> -->
-    <p>1112334</p>
+    <p>111</p>
     <router-view></router-view>
   </div>
 </template>
